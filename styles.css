@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background: #f4f7fb;
+  color: #333;
+}
+header, section, footer {
+  background: #fff;
+  border: 1px solid #dcdfe6;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+  padding: 1rem 1.5rem;
+  margin-bottom: 1rem;
+}
+h1 { color: #0a69ff; }
+.cmd { font-family: "Courier New", Courier, monospace; background: #eef3ff; padding: .3rem .5rem; border-radius: 4px; }
